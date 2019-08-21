@@ -1,0 +1,17 @@
+{
+  "name": "jest-esm-jsx-transform",
+  "repository": "molefrog/jest-esm-jsx-transform",
+  "version": "0.0.1",
+  "description": "Use ES6 modules and JSX in Jest via a transform",
+  "main": "index.js",
+  "dependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/plugin-transform-modules-commonjs": "^7.5.0",
+    "@babel/plugin-transform-react-jsx": "^7.3.0"
+  },
+  "scripts": {
+    "test": "echo \"No tests yet!\""
+  },
+  "author": "Alexey Taktarov <molefrog@gmail.com>",
+  "license": "ISC"
+}
